@@ -1,0 +1,1 @@
+print("How many variables are you solving for?")
