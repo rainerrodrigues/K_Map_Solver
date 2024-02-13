@@ -1,1 +1,5 @@
 print("How many variables are you solving for?")
+println("Which form do you prefer?")
+println("1. Sum of Product (SoP)")
+println("2. Product of Sum (POS)")
+println("The result is:")
